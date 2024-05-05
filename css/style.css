@@ -8,8 +8,7 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 }
 
 .under_line{
-  align-items: center;
-  margin: 5px 0;
+  margin: 15px auto;
   border-bottom: solid 1px #cecece;
   width: 30%;
 }
